@@ -1,5 +1,7 @@
 # Data Analyst Portfolio
 
+# Data Analyst Portfolio
+
 Welcome to my Data Analyst portfolio! This repository showcases my skills, projects, and expertise in data analysis, SQL, Python, Power BI, and Tableau. I am passionate about extracting insights from data and providing actionable solutions.
 
 ## 📌 About Me
@@ -25,6 +27,7 @@ Welcome to my Data Analyst portfolio! This repository showcases my skills, proje
   - `sql/nhs_wait_times_analysis.sql`
   - `python/nhs_wait_times_analysis.ipynb`
   - `visuals/nhs_wait_times_dashboard.pbix`
+  - `visuals/nhs_wait_times_dashboard.png`
 
 #### SQL Queries for NHS Patient Wait Time Analysis
 - Extract patient wait times:
@@ -91,12 +94,22 @@ Welcome to my Data Analyst portfolio! This repository showcases my skills, proje
 │   │-- eda_project.ipynb
 │-- 📁 visuals
 │   │-- nhs_wait_times_dashboard.pbix
+│   │-- nhs_wait_times_dashboard.png
 │-- 📁 notebooks
 │   │-- exploratory_data_analysis.ipynb
 ```
 
+## 🚀 How to Use
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Ayoolatkm/data-analyst-portfolio-2.git
+   ```
+2. Navigate to the project folder and explore the SQL, Python, and visualization files.
+3. Open the Jupyter notebooks or Power BI files to analyze the data.
+
 ## 📬 Contact
-- **Email:** ayoolaalonge@gmial.com
+- **GitHub:** [https://github.com/Ayoolatkm](https://github.com/Ayoolatkm)
+- **Email:** ayoolaalonge@gmail.com
 
 ---
 This portfolio will be continuously updated with new projects and improvements. Stay tuned! 🚀
